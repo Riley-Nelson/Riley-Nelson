@@ -10,4 +10,8 @@ I excel at problem-solving, understanding and applying complex rulesets, and fin
 - [Platformer](https://replit.com/@RCodeC4/Platformer): Simple- but surpisingly fun!- platformer game.
 - [Virtual Table Top Website](https://replit.com/@RCodeC4/Riley-Nelson-VTT-Major-Project): Provides a Virtual Table Top for tabletop roleplaying games like DnD, implemented in a simple web interface.
 
+## 3D Modeling Gallery
+
+See the [Gallery subpage](gallery/Gallery.md) for some example 3D modelling works I have done in Maya and Blender.
+
 ### Thanks for Stopping By!
